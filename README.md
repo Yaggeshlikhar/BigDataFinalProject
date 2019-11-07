@@ -1,5 +1,4 @@
+Analyzed 22 years of Airline data, 130 million records using Hadoop in multi-cluster node and MapReduce which is available on 
 
-Analysing Flight arrival dataset using Hadoop and Map reduce which is available on 
-
-http://statcomputing.org/dataexpo/2009/the-data.html
-http://stat-computing.org/dataexpo/2009/airports.csv
+1. http://statcomputing.org/dataexpo/2009/the-data.html
+2. http://stat-computing.org/dataexpo/2009/airports.csv
